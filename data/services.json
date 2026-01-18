@@ -1,0 +1,34 @@
+{
+  "services": [
+    {
+      "id": "CUST-1001",
+      "customer_name": "Acme Manufacturing",
+      "service_type": "Business Internet",
+      "status": "Active",
+      "location": "Detroit, MI",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "id": "CUST-1002",
+      "customer_name": "Northshore Medical Group",
+      "service_type": "Colocation",
+      "status": "Active",
+      "location": "Southfield, MI",
+      "last_updated": "2025-01-30"
+    },
+    {
+      "id": "CUST-1003",
+      "customer_name": "Lakeview Logistics",
+      "service_type": "Voice Services",
+      "status": "Suspended",
+      "location": "Grand Rapids, MI",
+      "last_updated": "2024-12-18"
+    }
+  ]
+}
+
+
+
+
+
+

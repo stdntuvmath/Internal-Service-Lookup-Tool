@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal Service Lookup Tool</title>
+    <meta name="author" content="Brandon Turner">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="js/main.js"></script>
+
+<body>
+    <div id="app">
+        <h1>Internal Service Lookup Tool</h1>
+
+        <form id="lookup-form">
+            <input
+                type="text"
+                id="lookup-input"
+                placeholder="Enter customer ID or service address"
+            >
+            <button type="submit">Search</button>
+        </form>
+
+        <div id="status"></div>
+        <div id="results"></div>
+    </div>
+</body>
+</html>

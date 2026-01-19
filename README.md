@@ -44,10 +44,7 @@ Because the project uses AJAX, it must be served via a local web server.
 
 ### Option 1: Python (recommended)
 
-From the project root directory:
-
-```bash
-python -m http.server 8000
+Double-click the start_local_server.bat file. This will start a local server on port 8000 and open the Internal Service Lookup web page. At this point, you can look in the services.json file for any of the employer id's listed and search them.
 
 
 

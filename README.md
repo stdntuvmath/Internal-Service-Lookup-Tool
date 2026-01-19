@@ -40,9 +40,7 @@ This mirrors how many internal tools interact with APIs or backend services.
 
 ## :running: Running the Project Locally
 
-Because the project uses AJAX, it must be served via a local web server.
-
-### Option 1: Python (recommended)
+Because the project uses AJAX, it must be served via a local web server. Because of this a batch file was created to provide easy startup of the program.
 
 Double-click the start_local_server.bat file. This will start a local server on port 8000 and open the Internal Service Lookup web page. At this point, you can look in the services.json file for any of the employer id's listed and search them.
 

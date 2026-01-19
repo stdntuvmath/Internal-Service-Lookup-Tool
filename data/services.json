@@ -1,34 +1,38 @@
 {
   "services": [
-    {
-      "id": "CUST-1001",
-      "customer_name": "Acme Manufacturing",
-      "service_type": "Business Internet",
-      "status": "Active",
-      "location": "Detroit, MI",
-      "last_updated": "2025-02-14"
-    },
-    {
-      "id": "CUST-1002",
-      "customer_name": "Northshore Medical Group",
-      "service_type": "Colocation",
-      "status": "Active",
-      "location": "Southfield, MI",
-      "last_updated": "2025-01-30"
-    },
-    {
-      "id": "CUST-1003",
-      "customer_name": "Lakeview Logistics",
-      "service_type": "Voice Services",
-      "status": "Suspended",
-      "location": "Grand Rapids, MI",
-      "last_updated": "2024-12-18"
-    }
+    { "id": "QX1001", "customer_name": "Acme Manufacturing", "service_type": "Business Internet", "status": "Active", "location": "Detroit, MI", "last_updated": "2025-02-14" },
+    { "id": "LM1002", "customer_name": "Northshore Medical Group", "service_type": "Colocation", "status": "Active", "location": "Southfield, MI", "last_updated": "2025-01-30" },
+    { "id": "TR1003", "customer_name": "Lakeview Logistics", "service_type": "Voice Services", "status": "Suspended", "location": "Grand Rapids, MI", "last_updated": "2024-12-18" },
+    { "id": "PK1004", "customer_name": "Iron Ridge Construction", "service_type": "Business Internet", "status": "Active", "location": "Marquette, MI", "last_updated": "2025-02-01" },
+    { "id": "NV1005", "customer_name": "Superior Auto Parts", "service_type": "MPLS Network", "status": "Active", "location": "Escanaba, MI", "last_updated": "2025-01-12" },
+    { "id": "HZ1006", "customer_name": "Pine Valley Credit Union", "service_type": "Secure VPN", "status": "Active", "location": "Houghton, MI", "last_updated": "2025-02-05" },
+    { "id": "BW1007", "customer_name": "Harborview Dental", "service_type": "Voice Services", "status": "Active", "location": "Traverse City, MI", "last_updated": "2025-01-20" },
+    { "id": "SC1008", "customer_name": "Midwest Cold Storage", "service_type": "Colocation", "status": "Maintenance", "location": "Saginaw, MI", "last_updated": "2025-02-08" },
+    { "id": "KE1009", "customer_name": "Keweenaw Energy Co-op", "service_type": "SCADA Connectivity", "status": "Active", "location": "Calumet, MI", "last_updated": "2025-01-28" },
+    { "id": "RD1010", "customer_name": "Red Cedar Software", "service_type": "Cloud Backup", "status": "Active", "location": "Lansing, MI", "last_updated": "2025-02-10" },
+
+    { "id": "GL1011", "customer_name": "Great Lakes Brewing Supply", "service_type": "Business Internet", "status": "Active", "location": "Kalamazoo, MI", "last_updated": "2025-01-15" },
+    { "id": "TF1012", "customer_name": "Timberline Forestry", "service_type": "Private Fiber", "status": "Active", "location": "Iron Mountain, MI", "last_updated": "2025-02-03" },
+    { "id": "UP1013", "customer_name": "Upper Peninsula Health Clinic", "service_type": "Secure VPN", "status": "Active", "location": "Manistique, MI", "last_updated": "2025-02-07" },
+    { "id": "BS1014", "customer_name": "Bluewater Shipping", "service_type": "Voice Services", "status": "Suspended", "location": "Port Huron, MI", "last_updated": "2024-12-29" },
+    { "id": "NT1015", "customer_name": "Northern Tech Solutions", "service_type": "Managed Firewall", "status": "Active", "location": "Petoskey, MI", "last_updated": "2025-02-11" },
+
+    { "id": "HR1016", "customer_name": "Huron Bay Research Labs", "service_type": "Dedicated Internet", "status": "Active", "location": "Alpena, MI", "last_updated": "2025-01-18" },
+    { "id": "CC1017", "customer_name": "Copper Country Bank", "service_type": "Colocation", "status": "Active", "location": "Hancock, MI", "last_updated": "2025-01-31" },
+    { "id": "MO1018", "customer_name": "Metro Office Supplies", "service_type": "Business Internet", "status": "Maintenance", "location": "Warren, MI", "last_updated": "2025-02-09" },
+    { "id": "GA1019", "customer_name": "Greenfield Ag Services", "service_type": "IoT Connectivity", "status": "Active", "location": "Adrian, MI", "last_updated": "2025-01-26" },
+    { "id": "SE1020", "customer_name": "Straits Engineering", "service_type": "Private Fiber", "status": "Active", "location": "St. Ignace, MI", "last_updated": "2025-02-06" },
+
+    { "id": "IF1021", "customer_name": "Ironclad Fabrication", "service_type": "Business Internet", "status": "Active", "location": "Flint, MI", "last_updated": "2025-01-19" },
+    { "id": "CA1022", "customer_name": "Clearwater Analytics", "service_type": "Cloud Backup", "status": "Active", "location": "Ann Arbor, MI", "last_updated": "2025-02-04" },
+    { "id": "LP1023", "customer_name": "Lakeshore Property Group", "service_type": "Managed WiFi", "status": "Active", "location": "Holland, MI", "last_updated": "2025-01-23" },
+    { "id": "PL1024", "customer_name": "Peninsula Legal Services", "service_type": "Voice Services", "status": "Active", "location": "Marquette, MI", "last_updated": "2025-02-02" },
+    { "id": "NW1025", "customer_name": "Northwind Data Systems", "service_type": "Dedicated Internet", "status": "Active", "location": "Rochester Hills, MI", "last_updated": "2025-02-13" },
+
+    { "id": "IH1026", "customer_name": "Iron Horse Transport", "service_type": "Fleet Connectivity", "status": "Active", "location": "Jackson, MI", "last_updated": "2025-01-27" },
+    { "id": "BM1027", "customer_name": "Beacon Manufacturing", "service_type": "MPLS Network", "status": "Active", "location": "Niles, MI", "last_updated": "2025-01-21" },
+    { "id": "SF1028", "customer_name": "Summit Financial Advisors", "service_type": "Secure VPN", "status": "Active", "location": "Bloomfield Hills, MI", "last_updated": "2025-02-08" },
+    { "id": "EL1029", "customer_name": "Evergreen Landscape Co.", "service_type": "Business Internet", "status": "Maintenance", "location": "Gaylord, MI", "last_updated": "2025-02-01" },
+    { "id": "NA1030", "customer_name": "Northstar Aviation Services", "service_type": "Dedicated Internet", "status": "Active", "location": "Oscoda, MI", "last_updated": "2025-02-12" }
   ]
 }
-
-
-
-
-
-

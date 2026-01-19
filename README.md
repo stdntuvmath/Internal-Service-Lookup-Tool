@@ -38,7 +38,7 @@ This mirrors how many internal tools interact with APIs or backend services.
 
 ---
 
-## 🚀 Running the Project Locally
+## :running: Running the Project Locally
 
 Because the project uses AJAX, it must be served via a local web server.
 
